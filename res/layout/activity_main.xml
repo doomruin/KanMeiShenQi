@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    
+	<com.huewu.pla.lib.MultiColumnListView
+	    android:id="@+id/gridView"
+	   android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:listSelector="@android:color/transparent"
+	    android:dividerHeight="0px"
+    	android:numColumns="3"
+    	android:layout_above="@+id/button_load_more"
+    	android:layout_below="@+id/button_changeActivity"
+    	android:stretchMode="columnWidth">
+	    
+	</com.huewu.pla.lib.MultiColumnListView>
+
+	<Button
+	    android:id="@+id/button_load_more"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:text="加载更多" />
+
+	<Button
+	    android:id="@+id/button_changeActivity"
+	    android:layout_width="fill_parent"
+	    android:layout_height="40dp"
+	    android:layout_alignParentTop="true"
+	    
+	    android:text="换个来源" />
+	
+</RelativeLayout>
