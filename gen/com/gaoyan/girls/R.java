@@ -1897,32 +1897,33 @@ containing a value of this type.
     }
     public static final class drawable {
         public static final int default_ptr_flip_bottom=0x7f020000;
-        public static final int ic_launcher=0x7f020001;
-        public static final int image_1=0x7f020002;
-        public static final int image_10=0x7f020003;
-        public static final int image_11=0x7f020004;
-        public static final int image_12=0x7f020005;
-        public static final int image_13=0x7f020006;
-        public static final int image_14=0x7f020007;
-        public static final int image_15=0x7f020008;
-        public static final int image_16=0x7f020009;
-        public static final int image_17=0x7f02000a;
-        public static final int image_18=0x7f02000b;
-        public static final int image_19=0x7f02000c;
-        public static final int image_2=0x7f02000d;
-        public static final int image_20=0x7f02000e;
-        public static final int image_3=0x7f02000f;
-        public static final int image_4=0x7f020010;
-        public static final int image_5=0x7f020011;
-        public static final int image_6=0x7f020012;
-        public static final int image_7=0x7f020013;
-        public static final int image_8=0x7f020014;
-        public static final int image_9=0x7f020015;
-        public static final int image_default=0x7f020016;
-        public static final int xiaohei_big=0x7f020017;
+        public static final int delete=0x7f020001;
+        public static final int ic_launcher=0x7f020002;
+        public static final int image_1=0x7f020003;
+        public static final int image_10=0x7f020004;
+        public static final int image_11=0x7f020005;
+        public static final int image_12=0x7f020006;
+        public static final int image_13=0x7f020007;
+        public static final int image_14=0x7f020008;
+        public static final int image_15=0x7f020009;
+        public static final int image_16=0x7f02000a;
+        public static final int image_17=0x7f02000b;
+        public static final int image_18=0x7f02000c;
+        public static final int image_19=0x7f02000d;
+        public static final int image_2=0x7f02000e;
+        public static final int image_20=0x7f02000f;
+        public static final int image_3=0x7f020010;
+        public static final int image_4=0x7f020011;
+        public static final int image_5=0x7f020012;
+        public static final int image_6=0x7f020013;
+        public static final int image_7=0x7f020014;
+        public static final int image_8=0x7f020015;
+        public static final int image_9=0x7f020016;
+        public static final int image_default=0x7f020017;
+        public static final int xiaohei_big=0x7f020018;
     }
     public static final class id {
-        public static final int action_settings=0x7f050042;
+        public static final int action_settings=0x7f050043;
         public static final int afterDescendants=0x7f050028;
         public static final int all=0x7f050026;
         public static final int always=0x7f05000e;
@@ -1933,9 +1934,10 @@ containing a value of this type.
         public static final int beforeDescendants=0x7f050027;
         public static final int blocksDescendants=0x7f050029;
         public static final int button_changeActivity=0x7f050033;
-        public static final int button_like=0x7f050037;
+        public static final int button_delete_this_favorite=0x7f050036;
+        public static final int button_like=0x7f050038;
         public static final int button_load_more=0x7f050032;
-        public static final int card_list=0x7f050038;
+        public static final int card_list=0x7f050039;
         public static final int center=0x7f05001f;
         public static final int defaultPosition=0x7f050011;
         public static final int disabled=0x7f05002a;
@@ -1947,9 +1949,9 @@ containing a value of this type.
         public static final int high=0x7f05000d;
         public static final int horizontal=0x7f050005;
         public static final int ifContentScrolls=0x7f05000f;
-        public static final int imageView_viewpageritem=0x7f050041;
+        public static final int imageView_viewpageritem=0x7f050042;
         public static final int image_girl=0x7f050034;
-        public static final int imageview_shower=0x7f050036;
+        public static final int imageview_shower=0x7f050037;
         public static final int inherit=0x7f050018;
         public static final int insideInset=0x7f050008;
         public static final int insideOverlay=0x7f050007;
@@ -1967,22 +1969,22 @@ containing a value of this type.
         public static final int normal=0x7f05002b;
         public static final int outsideInset=0x7f05000a;
         public static final int outsideOverlay=0x7f050009;
-        public static final int ptr_id_header=0x7f05003b;
-        public static final int ptr_id_image=0x7f05003c;
-        public static final int ptr_id_last_updated=0x7f050040;
-        public static final int ptr_id_spinner=0x7f05003d;
-        public static final int ptr_id_text=0x7f05003f;
-        public static final int ptr_id_textwrapper=0x7f05003e;
+        public static final int ptr_id_header=0x7f05003c;
+        public static final int ptr_id_image=0x7f05003d;
+        public static final int ptr_id_last_updated=0x7f050041;
+        public static final int ptr_id_spinner=0x7f05003e;
+        public static final int ptr_id_text=0x7f050040;
+        public static final int ptr_id_textwrapper=0x7f05003f;
         public static final int right=0x7f050013;
         public static final int rtl=0x7f050017;
         public static final int scrapped_view=0x7f050000;
         public static final int scrolling=0x7f050025;
         public static final int singleChoice=0x7f05002d;
         public static final int software=0x7f050014;
-        public static final int text=0x7f05003a;
+        public static final int text=0x7f05003b;
         public static final int textEnd=0x7f05001e;
         public static final int textStart=0x7f05001d;
-        public static final int thumbnail=0x7f050039;
+        public static final int thumbnail=0x7f05003a;
         public static final int vertical=0x7f050006;
         public static final int viewEnd=0x7f050021;
         public static final int viewStart=0x7f050020;
@@ -2000,7 +2002,7 @@ containing a value of this type.
         public static final int item_sample=0x7f030006;
         public static final int jiandan_activity=0x7f030007;
         public static final int ptr_header=0x7f030008;
-        public static final int viewpager_item=0x7f030009;
+        public static final int viewpager_item_favorites=0x7f030009;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;
@@ -2122,7 +2124,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:cacheColorHint
+          @attr name android:cacheColorHint
         */
         public static final int AbsListView_cacheColorHint = 6;
         /**
@@ -2154,7 +2156,7 @@ containing a value of this type.
 <tr><td><code>multipleChoiceModal</code></td><td>3</td><td> The list allows multiple choices in a custom selection mode. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:choiceMode
+          @attr name android:choiceMode
         */
         public static final int AbsListView_choiceMode = 9;
         /**
@@ -2174,7 +2176,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:drawSelectorOnTop
+          @attr name android:drawSelectorOnTop
         */
         public static final int AbsListView_drawSelectorOnTop = 1;
         /**
@@ -2193,7 +2195,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:fastScrollAlwaysVisible
+          @attr name android:fastScrollAlwaysVisible
         */
         public static final int AbsListView_fastScrollAlwaysVisible = 10;
         /**
@@ -2212,7 +2214,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:fastScrollEnabled
+          @attr name android:fastScrollEnabled
         */
         public static final int AbsListView_fastScrollEnabled = 7;
         /**
@@ -2226,7 +2228,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:listSelector
+          @attr name android:listSelector
         */
         public static final int AbsListView_listSelector = 0;
         /**
@@ -2246,7 +2248,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollingCache
+          @attr name android:scrollingCache
         */
         public static final int AbsListView_scrollingCache = 3;
         /**
@@ -2271,7 +2273,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:smoothScrollbar
+          @attr name android:smoothScrollbar
         */
         public static final int AbsListView_smoothScrollbar = 8;
         /**
@@ -2287,7 +2289,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:stackFromBottom
+          @attr name android:stackFromBottom
         */
         public static final int AbsListView_stackFromBottom = 2;
         /**
@@ -2306,7 +2308,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:textFilterEnabled
+          @attr name android:textFilterEnabled
         */
         public static final int AbsListView_textFilterEnabled = 4;
         /**
@@ -2336,7 +2338,7 @@ containing a value of this type.
             </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:transcriptMode
+          @attr name android:transcriptMode
         */
         public static final int AbsListView_transcriptMode = 5;
         /** Attributes that can be used with a ListView.
@@ -2383,7 +2385,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:dividerHeight
+          @attr name android:dividerHeight
         */
         public static final int ListView_dividerHeight = 0;
         /**
@@ -2402,7 +2404,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:footerDividersEnabled
+          @attr name android:footerDividersEnabled
         */
         public static final int ListView_footerDividersEnabled = 2;
         /**
@@ -2421,7 +2423,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:headerDividersEnabled
+          @attr name android:headerDividersEnabled
         */
         public static final int ListView_headerDividersEnabled = 1;
         /**
@@ -2435,7 +2437,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:overScrollFooter
+          @attr name android:overScrollFooter
         */
         public static final int ListView_overScrollFooter = 4;
         /**
@@ -2449,7 +2451,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:overScrollHeader
+          @attr name android:overScrollHeader
         */
         public static final int ListView_overScrollHeader = 3;
         /** Attributes that can be used with a PinterestLikeAdapterView.
@@ -2482,7 +2484,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.gaoyan.girls:plaColumnNumber
+          @attr name android:plaColumnNumber
         */
         public static final int PinterestLikeAdapterView_plaColumnNumber = 0;
         /**
@@ -2498,7 +2500,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.gaoyan.girls:plaColumnPaddingLeft
+          @attr name android:plaColumnPaddingLeft
         */
         public static final int PinterestLikeAdapterView_plaColumnPaddingLeft = 2;
         /**
@@ -2514,7 +2516,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.gaoyan.girls:plaColumnPaddingRight
+          @attr name android:plaColumnPaddingRight
         */
         public static final int PinterestLikeAdapterView_plaColumnPaddingRight = 3;
         /**
@@ -2528,7 +2530,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.gaoyan.girls:plaLandscapeColumnNumber
+          @attr name android:plaLandscapeColumnNumber
         */
         public static final int PinterestLikeAdapterView_plaLandscapeColumnNumber = 1;
         /** Attributes that can be used with a View.
@@ -2821,7 +2823,7 @@ containing a value of this type.
             </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:accessibilityFocusable
+          @attr name android:accessibilityFocusable
         */
         public static final int View_accessibilityFocusable = 66;
         /**
@@ -2840,7 +2842,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:alpha
+          @attr name android:alpha
         */
         public static final int View_alpha = 50;
         /**
@@ -2856,7 +2858,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:clickable
+          @attr name android:clickable
         */
         public static final int View_clickable = 36;
         /**
@@ -2876,7 +2878,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:contentDescription
+          @attr name android:contentDescription
         */
         public static final int View_contentDescription = 47;
         /**
@@ -2908,7 +2910,7 @@ containing a value of this type.
             </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:drawingCacheQuality
+          @attr name android:drawingCacheQuality
         */
         public static final int View_drawingCacheQuality = 40;
         /**
@@ -2927,7 +2929,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:duplicateParentState
+          @attr name android:duplicateParentState
         */
         public static final int View_duplicateParentState = 42;
         /**
@@ -2943,7 +2945,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:fadeScrollbars
+          @attr name android:fadeScrollbars
         */
         public static final int View_fadeScrollbars = 18;
         /**
@@ -2970,7 +2972,7 @@ containing a value of this type.
 <tr><td><code>vertical</code></td><td>0x00002000</td><td> Fades vertical edges only. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:fadingEdge
+          @attr name android:fadingEdge
         */
         public static final int View_fadingEdge = 28;
         /**
@@ -2988,7 +2990,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:fadingEdgeLength
+          @attr name android:fadingEdgeLength
         */
         public static final int View_fadingEdgeLength = 30;
         /**
@@ -3009,7 +3011,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:filterTouchesWhenObscured
+          @attr name android:filterTouchesWhenObscured
         */
         public static final int View_filterTouchesWhenObscured = 39;
         /**
@@ -3030,7 +3032,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:fitsSystemWindows
+          @attr name android:fitsSystemWindows
         */
         public static final int View_fitsSystemWindows = 14;
         /**
@@ -3053,7 +3055,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:focusable
+          @attr name android:focusable
         */
         public static final int View_focusable = 11;
         /**
@@ -3073,7 +3075,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:focusableInTouchMode
+          @attr name android:focusableInTouchMode
         */
         public static final int View_focusableInTouchMode = 12;
         /**
@@ -3092,7 +3094,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:hapticFeedbackEnabled
+          @attr name android:hapticFeedbackEnabled
         */
         public static final int View_hapticFeedbackEnabled = 46;
         /**
@@ -3114,7 +3116,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:id
+          @attr name android:id
         */
         public static final int View_id = 0;
         /**
@@ -3148,7 +3150,7 @@ containing a value of this type.
 <tr><td><code>no</code></td><td>2</td><td> The view is not important for accessibility. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:importantForAccessibility
+          @attr name android:importantForAccessibility
         */
         public static final int View_importantForAccessibility = 65;
         /**
@@ -3170,7 +3172,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:isScrollContainer
+          @attr name android:isScrollContainer
         */
         public static final int View_isScrollContainer = 17;
         /**
@@ -3189,7 +3191,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:keepScreenOn
+          @attr name android:keepScreenOn
         */
         public static final int View_keepScreenOn = 41;
         /**
@@ -3221,7 +3223,7 @@ containing a value of this type.
             </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:layerType
+          @attr name android:layerType
         */
         public static final int View_layerType = 61;
         /**
@@ -3248,7 +3250,7 @@ containing a value of this type.
 <tr><td><code>locale</code></td><td>3</td><td> Locale </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:layoutDirection
+          @attr name android:layoutDirection
         */
         public static final int View_layoutDirection = 62;
         /**
@@ -3264,7 +3266,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:longClickable
+          @attr name android:longClickable
         */
         public static final int View_longClickable = 37;
         /**
@@ -3286,7 +3288,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:minHeight
+          @attr name android:minHeight
         */
         public static final int View_minHeight = 43;
         /**
@@ -3308,7 +3310,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:minWidth
+          @attr name android:minWidth
         */
         public static final int View_minWidth = 44;
         /**
@@ -3327,7 +3329,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:nextFocusDown
+          @attr name android:nextFocusDown
         */
         public static final int View_nextFocusDown = 34;
         /**
@@ -3346,7 +3348,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:nextFocusForward
+          @attr name android:nextFocusForward
         */
         public static final int View_nextFocusForward = 35;
         /**
@@ -3365,7 +3367,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:nextFocusLeft
+          @attr name android:nextFocusLeft
         */
         public static final int View_nextFocusLeft = 31;
         /**
@@ -3384,7 +3386,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:nextFocusRight
+          @attr name android:nextFocusRight
         */
         public static final int View_nextFocusRight = 32;
         /**
@@ -3403,7 +3405,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:nextFocusUp
+          @attr name android:nextFocusUp
         */
         public static final int View_nextFocusUp = 33;
         /**
@@ -3426,7 +3428,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:onClick
+          @attr name android:onClick
         */
         public static final int View_onClick = 48;
         /**
@@ -3456,7 +3458,7 @@ containing a value of this type.
 <tr><td><code>never</code></td><td>2</td><td> Never show over-scroll effects. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:overScrollMode
+          @attr name android:overScrollMode
         */
         public static final int View_overScrollMode = 49;
         /**
@@ -3488,7 +3490,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:padding
+          @attr name android:padding
         */
         public static final int View_padding = 4;
         /**
@@ -3506,7 +3508,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:paddingBottom
+          @attr name android:paddingBottom
         */
         public static final int View_paddingBottom = 8;
         /**
@@ -3524,7 +3526,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:paddingEnd
+          @attr name android:paddingEnd
         */
         public static final int View_paddingEnd = 10;
         /**
@@ -3542,7 +3544,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:paddingLeft
+          @attr name android:paddingLeft
         */
         public static final int View_paddingLeft = 5;
         /**
@@ -3560,7 +3562,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:paddingRight
+          @attr name android:paddingRight
         */
         public static final int View_paddingRight = 7;
         /**
@@ -3578,7 +3580,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:paddingStart
+          @attr name android:paddingStart
         */
         public static final int View_paddingStart = 9;
         /**
@@ -3596,7 +3598,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:paddingTop
+          @attr name android:paddingTop
         */
         public static final int View_paddingTop = 6;
         /**
@@ -3616,7 +3618,7 @@ containing a value of this type.
 <tr><td><code>vertical</code></td><td>0x00002000</td><td> Fades vertical edges only. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:requiresFadingEdge
+          @attr name android:requiresFadingEdge
         */
         public static final int View_requiresFadingEdge = 29;
         /**
@@ -3632,7 +3634,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:rotation
+          @attr name android:rotation
         */
         public static final int View_rotation = 55;
         /**
@@ -3648,7 +3650,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:rotationX
+          @attr name android:rotationX
         */
         public static final int View_rotationX = 56;
         /**
@@ -3664,7 +3666,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:rotationY
+          @attr name android:rotationY
         */
         public static final int View_rotationY = 57;
         /**
@@ -3687,7 +3689,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:saveEnabled
+          @attr name android:saveEnabled
         */
         public static final int View_saveEnabled = 38;
         /**
@@ -3703,7 +3705,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scaleX
+          @attr name android:scaleX
         */
         public static final int View_scaleX = 58;
         /**
@@ -3719,7 +3721,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scaleY
+          @attr name android:scaleY
         */
         public static final int View_scaleY = 59;
         /**
@@ -3737,7 +3739,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollX
+          @attr name android:scrollX
         */
         public static final int View_scrollX = 2;
         /**
@@ -3755,7 +3757,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollY
+          @attr name android:scrollY
         */
         public static final int View_scrollY = 3;
         /**
@@ -3771,7 +3773,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarAlwaysDrawHorizontalTrack
+          @attr name android:scrollbarAlwaysDrawHorizontalTrack
         */
         public static final int View_scrollbarAlwaysDrawHorizontalTrack = 26;
         /**
@@ -3787,7 +3789,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarAlwaysDrawVerticalTrack
+          @attr name android:scrollbarAlwaysDrawVerticalTrack
         */
         public static final int View_scrollbarAlwaysDrawVerticalTrack = 27;
         /**
@@ -3803,7 +3805,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarDefaultDelayBeforeFade
+          @attr name android:scrollbarDefaultDelayBeforeFade
         */
         public static final int View_scrollbarDefaultDelayBeforeFade = 20;
         /**
@@ -3819,7 +3821,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarFadeDuration
+          @attr name android:scrollbarFadeDuration
         */
         public static final int View_scrollbarFadeDuration = 19;
         /**
@@ -3837,7 +3839,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarSize
+          @attr name android:scrollbarSize
         */
         public static final int View_scrollbarSize = 21;
         /**
@@ -3867,7 +3869,7 @@ containing a value of this type.
 <tr><td><code>outsideInset</code></td><td>0x03000000</td><td> Edge of the view and inset </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarStyle
+          @attr name android:scrollbarStyle
         */
         public static final int View_scrollbarStyle = 16;
         /**
@@ -3879,7 +3881,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarThumbHorizontal
+          @attr name android:scrollbarThumbHorizontal
         */
         public static final int View_scrollbarThumbHorizontal = 22;
         /**
@@ -3891,7 +3893,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarThumbVertical
+          @attr name android:scrollbarThumbVertical
         */
         public static final int View_scrollbarThumbVertical = 23;
         /**
@@ -3903,7 +3905,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarTrackHorizontal
+          @attr name android:scrollbarTrackHorizontal
         */
         public static final int View_scrollbarTrackHorizontal = 24;
         /**
@@ -3915,7 +3917,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbarTrackVertical
+          @attr name android:scrollbarTrackVertical
         */
         public static final int View_scrollbarTrackVertical = 25;
         /**
@@ -3935,7 +3937,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>vertical</code></td><td>0x00000200</td><td> Displays vertical scrollbar only. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:scrollbars
+          @attr name android:scrollbars
         */
         public static final int View_scrollbars = 15;
         /**
@@ -3954,7 +3956,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:soundEffectsEnabled
+          @attr name android:soundEffectsEnabled
         */
         public static final int View_soundEffectsEnabled = 45;
         /**
@@ -3977,7 +3979,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:tag
+          @attr name android:tag
         */
         public static final int View_tag = 1;
         /**
@@ -4020,7 +4022,7 @@ containing a value of this type.
             </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:textAlignment
+          @attr name android:textAlignment
         */
         public static final int View_textAlignment = 64;
         /**
@@ -4060,7 +4062,7 @@ containing a value of this type.
 <tr><td><code>locale</code></td><td>5</td><td> The paragraph direction is coming from the system Locale. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:textDirection
+          @attr name android:textDirection
         */
         public static final int View_textDirection = 63;
         /**
@@ -4081,7 +4083,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:transformPivotX
+          @attr name android:transformPivotX
         */
         public static final int View_transformPivotX = 53;
         /**
@@ -4102,7 +4104,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:transformPivotY
+          @attr name android:transformPivotY
         */
         public static final int View_transformPivotY = 54;
         /**
@@ -4123,7 +4125,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:translationX
+          @attr name android:translationX
         */
         public static final int View_translationX = 51;
         /**
@@ -4144,7 +4146,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:translationY
+          @attr name android:translationY
         */
         public static final int View_translationY = 52;
         /**
@@ -4164,7 +4166,7 @@ containing a value of this type.
 <tr><td><code>right</code></td><td>2</td><td> Place the scroll bar on the right. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:verticalScrollbarPosition
+          @attr name android:verticalScrollbarPosition
         */
         public static final int View_verticalScrollbarPosition = 60;
         /**
@@ -4184,7 +4186,7 @@ containing a value of this type.
 <tr><td><code>gone</code></td><td>2</td><td> Completely hidden, as if the view had not been added. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:visibility
+          @attr name android:visibility
         */
         public static final int View_visibility = 13;
         /** 
@@ -4259,7 +4261,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:addStatesFromChildren
+          @attr name android:addStatesFromChildren
         */
         public static final int ViewGroup_addStatesFromChildren = 7;
         /**
@@ -4278,7 +4280,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:alwaysDrawnWithCache
+          @attr name android:alwaysDrawnWithCache
         */
         public static final int ViewGroup_alwaysDrawnWithCache = 6;
         /**
@@ -4299,7 +4301,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:animateLayoutChanges
+          @attr name android:animateLayoutChanges
         */
         public static final int ViewGroup_animateLayoutChanges = 0;
         /**
@@ -4320,7 +4322,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:animationCache
+          @attr name android:animationCache
         */
         public static final int ViewGroup_animationCache = 4;
         /**
@@ -4342,7 +4344,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:clipChildren
+          @attr name android:clipChildren
         */
         public static final int ViewGroup_clipChildren = 1;
         /**
@@ -4361,7 +4363,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:clipToPadding
+          @attr name android:clipToPadding
         */
         public static final int ViewGroup_clipToPadding = 2;
         /**
@@ -4384,7 +4386,7 @@ containing a value of this type.
 <tr><td><code>blocksDescendants</code></td><td>2</td><td> The ViewGroup will block its descendants from receiving focus. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:descendantFocusability
+          @attr name android:descendantFocusability
         */
         public static final int ViewGroup_descendantFocusability = 8;
         /**
@@ -4399,7 +4401,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:layoutAnimation
+          @attr name android:layoutAnimation
         */
         public static final int ViewGroup_layoutAnimation = 3;
         /**
@@ -4427,7 +4429,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>all</code></td><td>0x3</td><td> The drawing cache is always persisted. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:persistentDrawingCache
+          @attr name android:persistentDrawingCache
         */
         public static final int ViewGroup_persistentDrawingCache = 5;
         /**
@@ -4454,7 +4456,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.gaoyan.girls:splitMotionEvents
+          @attr name android:splitMotionEvents
         */
         public static final int ViewGroup_splitMotionEvents = 9;
     };
