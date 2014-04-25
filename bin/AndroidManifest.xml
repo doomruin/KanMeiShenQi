@@ -15,7 +15,7 @@
     <application
         android:name="com.gaoyan.application.MyApplication"
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/xiaohei_big"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
