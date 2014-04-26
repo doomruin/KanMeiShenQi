@@ -19,10 +19,11 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 
-import com.gaoyan.Utils.StorageManager;
 
+import com.gaoyan.Utils.StorageManager;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer;
 
 
 
@@ -43,7 +44,7 @@ public class ImageShower extends Activity {
 		this.url = getIntent().getStringExtra("url");
 		//Log.i("one", url);
 		options = new DisplayImageOptions.Builder().cacheInMemory()		
-		.cacheOnDisc().bitmapConfig(Bitmap.Config.RGB_565).build();
+		.cacheOnDisc().bitmapConfig(Bitmap.Config.RGB_565).displayer(new RoundedBitmapDisplayer(10)).build();
 		ImageLoader.getInstance().displayImage(url, iv,options);
 		
 		

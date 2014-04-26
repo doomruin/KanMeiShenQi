@@ -13,6 +13,7 @@ import android.widget.ImageView;
 import com.gaoyan.girls.R;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer;
 
 public class GirlsImageAdapter extends BaseAdapter{
 	List<String> list;
@@ -26,6 +27,7 @@ public class GirlsImageAdapter extends BaseAdapter{
 		.showStubImage(R.drawable.image_default)
 		.showImageForEmptyUri(R.drawable.image_default)
 		.showImageOnFail(R.drawable.image_default).cacheInMemory()
+		
 		.cacheOnDisc().bitmapConfig(Bitmap.Config.RGB_565).build();
 	}
 	
