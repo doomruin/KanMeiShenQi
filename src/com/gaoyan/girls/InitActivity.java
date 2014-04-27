@@ -25,7 +25,7 @@ public class InitActivity extends Activity{
 		imgview.setLayoutParams(new LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.FILL_PARENT));
 		setContentView(imgview);
 		pd = new ProgressDialog(this);
-		pd.show();
+		
 		new AT().execute("");
 		
 	}
@@ -40,12 +40,18 @@ public class InitActivity extends Activity{
 	@Override
 	protected void onStart() {
 		// TODO Auto-generated method stub
-		super.onStart();
-		new AT().execute("");
+		onResume();
 	}
 
 
 	private class AT extends AsyncTask<String, Integer, Boolean>{
+
+		@Override
+		protected void onPreExecute() {
+			// TODO Auto-generated method stub
+			super.onPreExecute();
+			pd.show();
+		}
 
 		@Override
 		protected Boolean doInBackground(String... params) {
