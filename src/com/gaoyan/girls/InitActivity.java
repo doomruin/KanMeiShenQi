@@ -56,7 +56,11 @@ public class InitActivity extends Activity{
 		@Override
 		protected Boolean doInBackground(String... params) {
 			// TODO Auto-generated method stub
-			return Network.isFastMobileNetwork(InitActivity.this);			
+			if(Network.getNetWorkType(InitActivity.this) > 2){
+				return true;
+			}else{
+				return false;
+			}
 		}
 
 		@Override
